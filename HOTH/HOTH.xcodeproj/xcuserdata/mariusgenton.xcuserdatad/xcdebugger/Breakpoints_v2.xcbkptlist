@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3FC338B-564A-4E1F-A494-7E6A24F4D938"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32CD1DE3-6D09-487E-91B8-EA5D8523986B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "createAccount(username:pwd:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26EA3315-26A3-4BE4-98D8-BA327839BB0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "attemptAutoAuth()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26EA3315-26A3-4BE4-98D8-BA327839BB0C - 5e9dcf36c7bdd7ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.attemptAutoAuth() async -&gt; Swift.Optional&lt;HOTH.User&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "26EA3315-26A3-4BE4-98D8-BA327839BB0C - 1b15fec15459c9b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for static HOTH.DataManager.attemptAutoAuth() async -&gt; Swift.Optional&lt;HOTH.User&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "26EA3315-26A3-4BE4-98D8-BA327839BB0C - 711eaea7dde213ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.attemptAutoAuth() async -&gt; Swift.Optional&lt;HOTH.User&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B9935BA-0226-443C-8D1D-11A51649EC84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "auth(username:pwd:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4759254-EF84-45F7-8457-898F611954AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "getUserByID(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4759254-EF84-45F7-8457-898F611954AC - fa2f21403dfe0e02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.getUserByID(Swift.String) async -&gt; Swift.Optional&lt;HOTH.User&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C4759254-EF84-45F7-8457-898F611954AC - 1843b95cb3c74a04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.getUserByID(Swift.String) async -&gt; Swift.Optional&lt;HOTH.User&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "C4759254-EF84-45F7-8457-898F611954AC - 4f4e0d6b7538e807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static HOTH.DataManager.getUserByID(Swift.String) async -&gt; Swift.Optional&lt;HOTH.User&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9514D72D-F50B-42F3-9772-1528706593C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "createAccount(username:pwd:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E27FDF6B-FA59-4C1C-B257-BECAD402BE32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "setAchievement(_:achievementID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "301D7405-46D2-422D-ADF0-F97FA13DF87A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "follow(currentUser:accountToFollow:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "301D7405-46D2-422D-ADF0-F97FA13DF87A - 9c74b65c5bc92265"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.follow(currentUser: HOTH.User, accountToFollow: Swift.String) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "301D7405-46D2-422D-ADF0-F97FA13DF87A - 4633e98403a66267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.follow(currentUser: HOTH.User, accountToFollow: Swift.String) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "301D7405-46D2-422D-ADF0-F97FA13DF87A - eb134a18df570260"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static HOTH.DataManager.follow(currentUser: HOTH.User, accountToFollow: Swift.String) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB36412E-5E97-46BB-B977-75175D571460"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "uploadActivity(_:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "283979ED-B273-40E5-A38D-528E6D13B12D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "getAllUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "283979ED-B273-40E5-A38D-528E6D13B12D - 87133c7c5641a403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.getAllUsers() async -&gt; Swift.Array&lt;(Swift.String, Swift.String, Swift.String)&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "283979ED-B273-40E5-A38D-528E6D13B12D - 3ec1efcf5fa9780d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.getAllUsers() async -&gt; Swift.Array&lt;(Swift.String, Swift.String, Swift.String)&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "4152">
+               </Location>
+               <Location
+                  uuid = "283979ED-B273-40E5-A38D-528E6D13B12D - 6a18f878d81a9e0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static HOTH.DataManager.getAllUsers() async -&gt; Swift.Array&lt;(Swift.String, Swift.String, Swift.String)&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAE7E6BC-0E33-4AE4-8F45-3C3789C428E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "getUserActivities(userID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AAE7E6BC-0E33-4AE4-8F45-3C3789C428E9 - 31b6cca3b016e795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.getUserActivities(userID: Swift.String) async -&gt; Swift.Array&lt;HOTH.Activity&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "AAE7E6BC-0E33-4AE4-8F45-3C3789C428E9 - a18c33af401f2b93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.getUserActivities(userID: Swift.String) async -&gt; Swift.Array&lt;HOTH.Activity&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "AAE7E6BC-0E33-4AE4-8F45-3C3789C428E9 - ea772e348800b590"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static HOTH.DataManager.getUserActivities(userID: Swift.String) async -&gt; Swift.Array&lt;HOTH.Activity&gt;"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC8C0B35-08E8-491A-9980-4678A63D5E30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "writeLikeCount(_:activityID:count:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC8C0B35-08E8-491A-9980-4678A63D5E30 - 88d1a000722bb52d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "DC8C0B35-08E8-491A-9980-4678A63D5E30 - f2db907ec970c92b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "DC8C0B35-08E8-491A-9980-4678A63D5E30 - d7e088be7ae5ab28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D28537C-7C86-4020-BE9A-D55D1E29C16E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "toggleLike(userID:activity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59FAD050-F0C3-41EE-831E-20F7EF26C2BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "isLiked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E70423CD-E2AC-487D-9F63-0172393577DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getFriendActivities(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E55A2CEE-DD7C-4735-AF88-CF6C2F7EC928"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "userHash(uname:pwd:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E531539A-8C1F-463D-882C-9D6273B10153"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HOTH/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "writeLikeCount(_:activityID:count:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E531539A-8C1F-463D-882C-9D6273B10153 - 88d1a000722bb548"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "E531539A-8C1F-463D-882C-9D6273B10153 - da4d39b4d8b4605d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "E531539A-8C1F-463D-882C-9D6273B10153 - f2db907ec970c94e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E531539A-8C1F-463D-882C-9D6273B10153 - d7e088be7ae5ab4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static HOTH.DataManager.writeLikeCount(_: Swift.String, activityID: Swift.String, count: Swift.Int) async -&gt; ()"
+                  moduleName = "HOTH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariusgenton/Desktop/HOTH/HOTH/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
